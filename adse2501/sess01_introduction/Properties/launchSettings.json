@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "sess01_introduction": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
